@@ -1,0 +1,1 @@
+Wordle is a word-guessing game where players attempt to figure out a secret five-letter word within six attempts. With each guess, the game provides feedback, guiding players towards the correct answer.
